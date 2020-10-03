@@ -1,0 +1,5 @@
+c:\workspace\beesion\FileHelpers\MoveJavaFiles\MoveJavaFiles\bin\Debug\MoveJavaFiles.exe.config
+c:\workspace\beesion\FileHelpers\MoveJavaFiles\MoveJavaFiles\bin\Debug\MoveJavaFiles.exe
+c:\workspace\beesion\FileHelpers\MoveJavaFiles\MoveJavaFiles\bin\Debug\MoveJavaFiles.pdb
+c:\workspace\beesion\FileHelpers\MoveJavaFiles\MoveJavaFiles\obj\Debug\MoveJavaFiles.exe
+c:\workspace\beesion\FileHelpers\MoveJavaFiles\MoveJavaFiles\obj\Debug\MoveJavaFiles.pdb
